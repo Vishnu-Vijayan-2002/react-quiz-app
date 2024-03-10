@@ -1,0 +1,26 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Solway", serif;
+}
+body{
+  height: 1000px;
+  background-image:linear-gradient(#D8C7FF,#19006C);
+}
+.name-container{
+  background-color: rgb(243, 244, 244);
+  /* background: transparent; */
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 12px;
+}
+#name-btn{
+  margin-top: 46%;
+  margin-left: -172px;
+}
+.main-container{
+  width: 100%;
+  height: 100vh;
+  background-image:linear-gradient(#D8C7FF,#19006C);
+  padding-top: 150px;
+}
